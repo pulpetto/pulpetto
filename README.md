@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Chlebek 85</h1>
-<h3 align="center">Teenage gymbro from Poland, aspiring to be front-end developer.</h3>
+<h1 align="center">Hi 🍞, I'm Chlebek 85</h1>
+<h3 align="center">Teenage gymbro from Poland 🇵🇱, aspiring to be front-end developer.</h3>
 
 ## Things i know 💪🏻:
 
