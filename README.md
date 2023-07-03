@@ -7,11 +7,11 @@
 
 ## Currently learning 🧠:
 
-![My Skills](https://skillicons.dev/icons?i=angular,reactivex)
+![My Skills](https://skillicons.dev/icons?i=angular,reactivex,tailwind)
 
 ## Want to learn 💡:
 
-![My Skills](https://skillicons.dev/icons?i=tailwind,nodejs)
+![My Skills](https://skillicons.dev/icons?i=nodejs)
 
 # 📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pulpetto&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
