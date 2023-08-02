@@ -3,11 +3,11 @@
 
 ## Things i know 💪🏻:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,tailwind,git,github,vscode)
 
 ## Currently learning 🧠:
 
-![My Skills](https://skillicons.dev/icons?i=angular,reactivex,tailwind)
+![My Skills](https://skillicons.dev/icons?i=angular,reactivex)
 
 ## Want to learn 💡:
 
