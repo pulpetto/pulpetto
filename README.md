@@ -1,9 +1,9 @@
-<h1 align="center">Hi 🍞, I'm Chlebek 85</h1>
-<h3 align="center">Teenage gymbro from Poland 🇵🇱, aspiring to be a front-end developer.</h3>
+<h1 align="center">Hi, welcome to my profile!</h1>
+<h3 align="center">I am teenage gymbro from Poland, aspiring to be a front-end developer.</h3>
 
 ## Things i know 💪🏻:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,tailwind,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind)
 
 ## Currently learning 🧠:
 
