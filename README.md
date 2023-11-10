@@ -11,7 +11,7 @@
 
 ## Want to learn 💡:
 
-![My Skills](https://skillicons.dev/icons?i=nodejs)
+![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,nestjs)
 
 # 📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pulpetto&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
