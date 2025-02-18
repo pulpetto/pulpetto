@@ -1,5 +1,5 @@
 <h1 align="center">Hi, welcome to my profile!</h1>
-<h3 align="center">I am 18yo gym enthusiast from Poland, aspiring to be a front-end developer.</h3>
+<h3 align="center">I am 18yo gym enthusiast from Poland 🇵🇱, aspiring to be a front-end developer.</h3>
 
 ## Things i know 💪🏻:
 
