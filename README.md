@@ -1,20 +1,20 @@
 <h1 align="center">Hi, welcome to my profile!</h1>
-<h3 align="center">I am teenage gymbro from Poland, aspiring to be a front-end developer.</h3>
+<h3 align="center">I am 18yo gym enthusiast from Poland, aspiring to be a front-end developer.</h3>
 
 ## Things i know 💪🏻:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,angular,reactivex,firebase)
 
 ## Currently learning 🧠:
 
-![My Skills](https://skillicons.dev/icons?i=angular,reactivex)
+![My Skills](https://skillicons.dev/icons?i=dart,flutter,supabase)
 
 ## Want to learn 💡:
 
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mongodb)
+![My Skills](https://skillicons.dev/icons?i=solidity)
 
-# 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pulpetto&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+## Stats 📈:
+<!-- ![](https://github-readme-stats.vercel.app/api?username=pulpetto&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pulpetto&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pulpetto&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
