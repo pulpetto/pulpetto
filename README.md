@@ -7,7 +7,7 @@
 
 ## Currently learning 🧠:
 
-![My Skills](https://skillicons.dev/icons?i=supabase)
+![My Skills](https://skillicons.dev/icons?i=supabase,sqlite)
 
 ## Want to learn 💡:
 
