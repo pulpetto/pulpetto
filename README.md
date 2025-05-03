@@ -7,11 +7,11 @@
 
 ## Currently learning 🧠:
 
-![My Skills](https://skillicons.dev/icons?i=supabase,sqlite)
+![My Skills](https://skillicons.dev/icons?i=dart,flutter,supabase,sqlite)
 
 ## Want to learn 💡:
 
-![My Skills](https://skillicons.dev/icons?i=solidity,dart,flutter)
+![My Skills](https://skillicons.dev/icons?i=solidity,rust)
 
 ## Stats 📈:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=pulpetto&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
