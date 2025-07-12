@@ -25,9 +25,9 @@
 </p>
 
 <h2 align="center">Stats 📈:</h2>
-<p align="center">
+<!-- <p align="center">
      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pulpetto&theme=dark&hide_border=true" />
-</p>
+</p> -->
 <p align="center">
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulpetto&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
