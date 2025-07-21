@@ -13,7 +13,7 @@
 <h2 align="center">Currently learning 🧠:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,supabase,sqlite" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,supabase,sqlite,postgres" />
   </a>
 </p>
 
